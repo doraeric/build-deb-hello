@@ -1,3 +1,9 @@
+hello (2.10-2ubuntu4ppa1) jammy; urgency=low
+
+  * Add testing script
+
+ -- Eric Hsieh <doraeric@proton.me>  Wed, 03 May 2023 04:02:00 +0000
+
 hello (2.10-2ubuntu4) jammy; urgency=medium
 
   * No-change rebuild for ppc64el baseline bump.

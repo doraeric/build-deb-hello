@@ -1,0 +1,10 @@
+Description: Add testing script
+Author: Eric Hsieh <doraeric@proton.me>
+Origin: other
+Last-Update: 2023-05-03
+
+--- /dev/null
++++ hello-2.10/testing.sh
+@@ -0,0 +1,2 @@
++#!/bin/bash
++echo this is a test from Chih-Yu Hsieh >&2
